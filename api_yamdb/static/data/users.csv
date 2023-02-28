@@ -1,0 +1,6 @@
+id,username,email,role,bio,first_name,last_name,password,is_active,is_superuser,is_staff
+100,bingobongo,bingo,user,s,s,s,s,False,False,False
+101,capt_obvious,capt_obviou,admin,s,s,s,s,False,False,True
+102,faust,faus,user,s,s,s,s,False,False,False
+103,reviewer,review,user,s,s,s,s,False,False,False
+104,angry,angr,moderator,s,s,s,s,False,False,True
